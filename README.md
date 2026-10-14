@@ -1,4 +1,4 @@
-## HEXB Lysosomal Enzyme Sequence Analysis
+## Lysosomal-enzyme-HEXB
 
 **Name:** Jil M. Duhaylongsod
 
