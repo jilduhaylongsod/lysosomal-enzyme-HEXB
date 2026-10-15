@@ -24,15 +24,28 @@ In this activity, I used NCBI and R to study the human HEXB protein. I checked i
 
 HEXB is a gene that provides instructions for making the beta subunit of an enzyme called beta-hexosaminidase. This enzyme is found in lysosomes and helps break down certain complex sugars and fats so that the cell can recycle them.
 
-## Figures
+## Amino Acid Counts
+
+<img width="140" height="264" alt="image" src="https://github.com/user-attachments/assets/c110b142-79c8-4ed9-9c97-2e330210b809" />
+
+**Table 1.** The amino acid composition of the HEXB protein, showing the count and percentage of each amino acid found in the protein sequence.
+
+## Amino Acid Composition
 
 <img width="788" height="443" alt="image" src="https://github.com/user-attachments/assets/4eea700a-e8fb-4563-80d8-393090cb0130" />
 
-**Figure 1.** Amino Acid Composition. Shows the number of each amino acid found in the HEXB protein sequence.
+**Figure 1.** Shows the number of each amino acid found in the HEXB protein sequence.
 
+## Potential N-Glyosylation Sites
+
+<img width="109" height="83" alt="image" src="https://github.com/user-attachments/assets/39985433-4536-4646-9672-7cdfbf886495" />
+
+**Table 2.** The five potential N-glycosylation motifs found in the HEXB protein sequence and their positions.
+
+## Potential N-Glycosylation Motifs
 <img width="707" height="292" alt="image" src="https://github.com/user-attachments/assets/0bb9e9b3-8a81-4caf-a4e9-dc75103000be" />
 
-**Figure 2.** Potential N-Glycosylation Motifs. Shows the positions of possible N-glycosylation motifs found in the HEXB protein sequence.
+**Figure 2.** Shows the positions of possible N-glycosylation motifs found in the HEXB protein sequence.
 
 ## Questions and Answers
 
