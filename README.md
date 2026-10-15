@@ -20,9 +20,7 @@ In this activity, I used NCBI and R to study the human HEXB protein. I checked i
 
 **NCBI protein record link:** https://www.ncbi.nlm.nih.gov/protein/NP_000512.2
 
-**Brief function description**
-
-HEXB is a gene that provides instructions for making the beta subunit of an enzyme called beta-hexosaminidase. This enzyme is found in lysosomes and helps break down certain complex sugars and fats so that the cell can recycle them.
+**Brief function description:** HEXB is a gene that provides instructions for making the beta subunit of an enzyme called beta-hexosaminidase. This enzyme is found in lysosomes and helps break down certain complex sugars and fats so that the cell can recycle them.
 
 ## Amino Acid Counts
 
